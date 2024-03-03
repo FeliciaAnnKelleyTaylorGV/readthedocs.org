@@ -8,7 +8,7 @@ or taking the open source Read the Docs codebase for your own custom installatio
    :caption: General
    :maxdepth: 1
 
-   contribute
+   FeliciaAnnKelley
    code-of-conduct
    issue-labels
    roadmap
